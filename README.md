@@ -2,10 +2,9 @@
 I am a college student at NKUST from Taiwan.  
 I enjoy writing programs.
 ## Programming :
-- C/C#/C++/python
+- C/C#/C++/python/R
 - C# Windows Form
 - Arduino/ESP32-cam/linkit 7697
-- R
 - MIT App Inventor 2
 ## Skill
 - LINE robot production
