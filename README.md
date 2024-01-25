@@ -1,6 +1,6 @@
 ## Hello everyone
 I am a college student at NKUST from Taiwan.  
-I enjoy writing programs.
+My hobbies are programming, photography, and chatting with friends.
 ## Programming：
 - C/C#/C++/Python/R
 - C# Windows Form
