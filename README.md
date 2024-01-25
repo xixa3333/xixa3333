@@ -13,5 +13,5 @@ I enjoy writing programs.
 - PowerPoint
 - Canva
 ## Links：
-[fb](https://www.facebook.com/profile.php?id=100008125330551&locale=zh_TW)  
-[ig](https://www.instagram.com/xixa3333/)  
+[FB](https://www.facebook.com/profile.php?id=100008125330551&locale=zh_TW)  
+[IG](https://www.instagram.com/xixa3333/)  
