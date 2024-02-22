@@ -25,4 +25,4 @@ My hobbies are programming, photography, and chatting with friends.
 - [C](https://github.com/xixa3333/C-Textbook/blob/main/%E7%9B%AE%E9%8C%84.md)
 - [algorithm](https://github.com/xixa3333/algorithm/blob/main/%E7%9B%AE%E9%8C%84.md)
 ### Links：
-[my links](https://bento.me/xixa3333)
+- [my links](https://bento.me/xixa3333)
