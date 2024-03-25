@@ -23,6 +23,7 @@ My hobbies are programming, photography, and chatting with friends.
 - [Fish-pond-monitoring-and-real-time-early-warning-system](https://github.com/xixa3333/Fish-pond-monitoring-and-real-time-early-warning-system)
 - [congestion-analysis](https://github.com/xixa3333/congestion-analysis)
 ### small game：
+- [maze](https://github.com/xixa3333/maze)
 - [Dragon-Quest](https://github.com/xixa3333/Dragon-Quest)
 ### small creation：
 - [calculator](https://github.com/xixa3333/calculator)
