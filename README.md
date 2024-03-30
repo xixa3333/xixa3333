@@ -3,7 +3,7 @@ I am a college student at NKUST from Taiwan.
 My hobbies are programming, photography, and chatting with friends.
 ## Programming：
 - C/C#/C++/Python/R
-- PHP、HTML
+- PHP/HTML
 - C# Windows Form
 - Arduino/ESP32-cam/linkit 7697
 - MIT App Inventor 2
