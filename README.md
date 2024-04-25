@@ -6,8 +6,9 @@ I am learning JavaScript,MySQL,python tkinter,python deep learning,python web cr
 - C/C#/C++/Python/R
 - PHP/HTML
 - C# Windows Form
-- Arduino/ESP32-cam/linkit 7697
 - MIT App Inventor 2
+## Firmware：
+- Arduino/ESP32-cam/linkit 7697
 ## Skill：
 - LINE robot production
 ## Word Processing：
