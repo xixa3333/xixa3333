@@ -1,6 +1,7 @@
 # Hello everyone
 I am a college student at NKUST from Taiwan.  
 My hobbies are programming, photography, and chatting with friends.
+I am learning JavaScript,MySQL,python tkinter,python deep learning,python web crawler,x86 and MIPS.
 ## Programming：
 - C/C#/C++/Python/R
 - PHP/HTML
@@ -11,10 +12,13 @@ My hobbies are programming, photography, and chatting with friends.
 - LINE robot production
 ## Word Processing：
 - Word
+- Excel
 - PowerPoint
 - Canva
 ## google：
 - google forms
+## Visual design：
+- Power BI
 ## Links：
 - [my links](https://bento.me/xixa3333)
 
