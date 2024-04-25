@@ -8,6 +8,7 @@ I am learning JavaScript,MySQL,python tkinter,python deep learning,python web cr
 - C# Windows Form
 - Arduino
 - MIT App Inventor 2
+- Git
 ## Firmware：
 - Arduino
 - ESP32-cam
