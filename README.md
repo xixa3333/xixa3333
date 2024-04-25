@@ -6,6 +6,7 @@ I am learning JavaScript,MySQL,python tkinter,python deep learning,python web cr
 - C/C#/C++/Python/R
 - PHP/HTML
 - C# Windows Form
+- Arduino
 - MIT App Inventor 2
 ## Firmware：
 - Arduino
