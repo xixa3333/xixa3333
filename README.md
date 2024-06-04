@@ -3,8 +3,9 @@ I am a college student at NKUST from Taiwan.
 My hobbies are programming, photography, and chatting with friends.  
 I am learning JavaScript,python deep learning.
 ## Programming：
-- C/C#/C++/Python/R
+- C/C#/C++/Python
 - HTML/CSS/PHP/MySQL
+- R/Python Pandas
 - C# Windows Form/Python tkinter
 - Arduino
 - MIT App Inventor 2
