@@ -1,11 +1,11 @@
 # Hello everyone
 I am a college student at NKUST from Taiwan.  
 My hobbies are programming, photography, and chatting with friends.  
-I am learning JavaScript,MySQL,python tkinter,python deep learning,python web crawler,x86 and MIPS.
+I am learning JavaScript,python deep learning.
 ## Programming：
 - C/C#/C++/Python/R
-- PHP/HTML
-- C# Windows Form
+- HTML/CSS/PHP/MySQL
+- C# Windows Form/python tkinter
 - Arduino
 - MIT App Inventor 2
 - Git
@@ -15,6 +15,7 @@ I am learning JavaScript,MySQL,python tkinter,python deep learning,python web cr
 - linkit 7697
 ## Skill：
 - LINE robot production
+- static web crawler
 ## Word Processing：
 - Word
 - Excel
