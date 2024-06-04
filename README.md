@@ -5,7 +5,7 @@ I am learning JavaScript,python deep learning.
 ## Programming：
 - C/C#/C++/Python/R
 - HTML/CSS/PHP/MySQL
-- C# Windows Form/python tkinter
+- C# Windows Form/Python tkinter
 - Arduino
 - MIT App Inventor 2
 - Git
