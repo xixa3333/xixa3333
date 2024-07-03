@@ -15,7 +15,6 @@ I am learning JavaScript,python deep learning.
 - ESP32-cam
 - linkit 7697
 ## Skill：
-- LINE robot production
 - static web crawler
 ## Word Processing：
 - Word
