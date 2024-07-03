@@ -29,7 +29,7 @@ I am learning JavaScript,python deep learning.
 - [my links](https://bento.me/xixa3333)
 ## Certificate：
 - [Google Cloud Certificate](https://partner.cloudskillsboost.google/public_profiles/dbc19dbb-8cce-44c3-8e39-60a41ee9b27f)
-- Deep learning implementation basics
+- [Deep learning implementation basics](https://edocr.com/v/ykygjo0z/xixa3333/i2024)
 - Level B technician for digital electronics
 - Level B technician for computer hardware fabrication
 - Computer Software Application Level C
