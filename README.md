@@ -25,8 +25,6 @@ I am learning JavaScript,python deep learning.
 - google forms
 ## Visual design：
 - Power BI
-## Links：
-- [my links](https://bento.me/xixa3333)
 ## Certificate：
 - [Google Cloud Certificate](https://partner.cloudskillsboost.google/public_profiles/dbc19dbb-8cce-44c3-8e39-60a41ee9b27f)
 - [Deep learning implementation basics](https://edocr.com/v/ykygjo0z/xixa3333/i2024)
@@ -56,3 +54,5 @@ I am learning JavaScript,python deep learning.
 - [C++](https://github.com/xixa3333/C-Plus-Plus-Textbook/blob/main/%E7%9B%AE%E9%8C%84.md)
 - [C](https://github.com/xixa3333/C-Textbook/blob/main/%E7%9B%AE%E9%8C%84.md)
 - [algorithm](https://github.com/xixa3333/algorithm/blob/main/%E7%9B%AE%E9%8C%84.md)
+## Links：
+- [my links](https://bento.me/xixa3333)
