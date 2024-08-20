@@ -43,6 +43,7 @@ I am learning JavaScript,python deep learning.
 - [Cloud-intelligent-anti-theft-door-lock-system ](https://github.com/xixa3333/Cloud-intelligent-anti-theft-door-lock-system)
 - [Fish-pond-monitoring-and-real-time-early-warning-system](https://github.com/xixa3333/Fish-pond-monitoring-and-real-time-early-warning-system)
 - [congestion-analysis](https://github.com/xixa3333/congestion-analysis)
+- [Applying-Machine-Learning-to-Public-Internet-of-Things](https://github.com/xixa3333/Applying-Machine-Learning-to-Public-Internet-of-Things)
 ### small game：
 - [maze](https://github.com/xixa3333/maze)
 - [Dragon-Quest](https://github.com/xixa3333/Dragon-Quest)
