@@ -27,8 +27,8 @@ I am learning python deep learning.
 - Power BI
 ## Certificate：
 - [Google Cloud證書](https://partner.cloudskillsboost.google/public_profiles/dbc19dbb-8cce-44c3-8e39-60a41ee9b27f)
-- [深度學習實作I基礎]([https://edocr.com/v/ykygjo0z/xixa3333/i2024](https://www.edocr.com/v/w26xom0w/xixa3333/i2024))
-- 數位電子乙級技術士https://www.edocr.com/v/wvxaeplr/xixa3333/
+- [深度學習實作I基礎](https://www.edocr.com/v/w26xom0w/xixa3333/i2024)
+- 數位電子乙級技術士
 - 電腦硬體裝修乙級技術士
 - 電腦硬體裝修丙級技術士
 ## Competition experience：
