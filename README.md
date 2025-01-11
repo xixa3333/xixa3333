@@ -53,6 +53,8 @@ I am learning python deep learning.
 - [計算機](https://github.com/xixa3333/calculator)
 ### website：
 - [GPA網站](https://github.com/xixa3333/GPA-website)
+### UsefulFeatures:
+- [自動填寫教學意見](https://github.com/xixa3333/Teaching_advice/tree/main)
 ### article：
 - [C++](https://github.com/xixa3333/C-Plus-Plus-Textbook/blob/main/%E7%9B%AE%E9%8C%84.md)
 - [C](https://github.com/xixa3333/C-Textbook/blob/main/%E7%9B%AE%E9%8C%84.md)
