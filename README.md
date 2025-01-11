@@ -54,6 +54,7 @@ I am learning python deep learning.
 ### website：
 - [GPA網站](https://github.com/xixa3333/GPA-website)
 ### UsefulFeatures:
+- [食物抽籤](https://github.com/xixa3333/Food_Lottery/tree/master)
 - [自動填寫教學意見](https://github.com/xixa3333/Teaching_advice/tree/main)
 ### article：
 - [C++](https://github.com/xixa3333/C-Plus-Plus-Textbook/blob/main/%E7%9B%AE%E9%8C%84.md)
