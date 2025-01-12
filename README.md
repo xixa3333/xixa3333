@@ -16,6 +16,7 @@ I am learning python deep learning.
 - linkit 7697
 ## Skill：
 - web crawler
+- digital image process
 ## Word Processing：
 - Word
 - Excel
