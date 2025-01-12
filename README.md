@@ -15,7 +15,7 @@ I am learning python deep learning.
 - ESP32-cam
 - linkit 7697
 ## Skill：
-- static web crawler
+- web crawler
 ## Word Processing：
 - Word
 - Excel
