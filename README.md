@@ -47,7 +47,7 @@ I am learning python deep learning.
 - [魚塭監測及時預警系統](https://github.com/xixa3333/Fish-pond-monitoring-and-real-time-early-warning-system)
 - [高速公路易壅塞路段概況分析](https://github.com/xixa3333/congestion-analysis)
 - [應用 Machine Learning 於公共物聯網](https://github.com/xixa3333/Applying-Machine-Learning-to-Public-Internet-of-Things)
-- [利用 OpenCV 程式庫對影像進行多步驟處理](https://github.com/xixa3333/P-Chart/tree/master)
+- [利用 OpenCV 程式庫對影像進行多步驟處理](https://github.com/xixa3333/P-Chart/tree/main)
 ### small game：
 - [迷宮](https://github.com/xixa3333/maze)
 - [勇者鬥惡龍](https://github.com/xixa3333/Dragon-Quest)
