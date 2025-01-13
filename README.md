@@ -51,6 +51,7 @@ I am learning python deep learning.
 ### small game：
 - [迷宮](https://github.com/xixa3333/maze)
 - [勇者鬥惡龍](https://github.com/xixa3333/Dragon-Quest)
+- [俄羅斯方塊2048](https://github.com/xixa3333/Tetris2048/tree/main)
 ### small creation：
 - [計算機](https://github.com/xixa3333/calculator)
 - [食物抽籤](https://github.com/xixa3333/Food_Lottery/tree/master)
