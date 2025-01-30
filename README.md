@@ -3,13 +3,7 @@ I am a college student at NKUST from Taiwan.
 My hobbies are programming, photography, and chatting with friends.  
 I am learning python deep learning.
 ## Programming：
-- C/C#/C++/Python/Java
-- HTML/CSS/PHP/MySQL
-- R
-- Arduino
-- MIT App Inventor 2
-- Git
-- lua
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,c,arduino,java,py,r,lua,html,css,php,mysql,git&theme=light)](https://skillicons.dev)
 ## Firmware：
 - Arduino
 - ESP32-cam
