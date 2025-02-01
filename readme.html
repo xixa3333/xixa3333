@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>王凱弘的個人網站</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://cdn.jsdelivr.net/npm/markmap-toolbar/dist/style.min.css" rel="stylesheet">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background: #0073e6;
+            color: white;
+            padding: 1rem;
+            text-align: center;
+        }
+        nav ul {
+            list-style: none;
+            padding: 0;
+        }
+        nav ul li {
+            display: inline;
+            margin: 0 15px;
+        }
+        nav ul li a {
+            color: white;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        section {
+            padding: 20px;
+            background: white;
+            margin: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background: #0073e6;
+            color: white;
+            margin-top: 20px;
+        }
+        h2 {
+            color: #0073e6;
+        }
+        .skill-tree-container {
+            display: flex;
+            align-items: flex-start;
+            gap: 20px;
+            position: relative;
+        }
+        .skill-tree {
+            width: 100%;
+        }
+        .toolbar {
+            position: absolute;
+  top: -5px;
+  left: 180px;
+  width: 100px;
+  height: 0px;
+            
+        }
+        .skill-branch {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 40px;
+            position: relative;
+            margin: 20px 0;
+        }
+        .skill-branch::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 50%;
+            width: 2px;
+            height: 20px;
+            background: #0073e6;
+        }
+        .skill-item {
+            text-align: center;
+            width: 120px;
+        }
+        .skill-item img {
+            width: 80px;
+            height: 80px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>王凱弘的個人網站</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">關於我</a></li>
+                <li><a href="#skills">技能</a></li>
+                <li><a href="#certificates">證書</a></li>
+                <li><a href="#projects">專案</a></li>
+                <li><a href="#contact">聯絡方式</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section id="about">
+        <h2>關於我</h2>
+        <p>我是來自 NKUST 的大學生，熱愛程式設計、攝影，並喜歡與朋友交流。我目前正在學習 Python 深度學習。</p>
+    </section>
+    
+    <section id="skills">
+        <h2>技能樹</h2>
+        <div class="skill-tree-container">
+            <div class="skill-tree">
+                <div id="container">
+                    <svg id="markmap" style="width: 100%; height: 100vh;"></svg>
+                </div>
+            </div>
+            <div class="toolbar">
+                <div id="markmap-toolbar"></div>
+            </div>
+        </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/markmap-lib"></script>
+    <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+    <script src="https://cdn.jsdelivr.net/npm/markmap-view"></script>
+    <script src="https://cdn.jsdelivr.net/npm/markmap-toolbar"></script>
+
+    <script>
+        window.onload = function () {
+            // 將資料轉換為 Markdown 格式
+            const markdown = `
+# 程式：
+- [![My Skills](https://skillicons.dev/icons?i=cpp,cs,c,java,py,git&theme=light)](https://skillicons.dev)
+
+# 視窗程式開發:
+## [![My Skills](https://skillicons.dev/icons?i=py,cs&theme=light)](https://skillicons.dev)
+### 實作:
+- [計算機](https://github.com/xixa3333/calculator)
+- [迷宮](https://github.com/xixa3333/maze)
+
+# 遊戲開發:
+## [![My Skills](https://skillicons.dev/icons?i=py,lua,cpp&theme=light)](https://skillicons.dev)
+### 實作:
+- [迷宮](https://github.com/xixa3333/maze)
+- [勇者鬥惡龍](https://github.com/xixa3333/Dragon-Quest)
+- [俄羅斯方塊2048](https://github.com/xixa3333/Tetris2048/tree/main)
+
+# 網頁開發:
+## [![My Skills](https://skillicons.dev/icons?i=html,css,php,mysql&theme=light)](https://skillicons.dev)
+### 實作:
+- [GPA網站](https://github.com/xixa3333/GPA-website)
+
+# 韌體開發：
+## [![My Skills](https://skillicons.dev/icons?i=arduino&theme=light)](https://skillicons.dev)
+## Arduino/ESP32-cam/linkit7697
+## 實作:
+- [雲端智能防盜門鎖系統](https://github.com/xixa3333/Cloud-intelligent-anti-theft-door-lock-system)
+- [魚塭監測及時預警系統](https://github.com/xixa3333/Fish-pond-monitoring-and-real-time-early-warning-system)
+
+# 資料處理:
+## 資料分析:
+### [![My Skills](https://skillicons.dev/icons?i=py,r&theme=light)](https://skillicons.dev)
+## 資料視覺化:
+### <img src="https://media.datacamp.com/legacy/v1724169856/image_ff55d03003.png" width="70" height="70">
+## 實作:
+- [高速公路易壅塞路段概況分析](https://github.com/xixa3333/congestion-analysis)
+
+# 其餘技能：
+## 爬蟲:
+### [![My Skills](https://skillicons.dev/icons?i=py&theme=light)](https://skillicons.dev)
+#### 實作:
+- [食物抽籤](https://github.com/xixa3333/Food_Lottery/tree/master)
+- [自動填寫教學意見](https://github.com/xixa3333/Teaching_advice/tree/main)
+
+## 數位影像處理:
+### [![My Skills](https://skillicons.dev/icons?i=py&theme=light)](https://skillicons.dev)
+#### 實作:
+- [利用 OpenCV 程式庫對影像進行多步驟處理](https://github.com/xixa3333/P-Chart/tree/main)
+
+## AI:
+### [![My Skills](https://skillicons.dev/icons?i=py&theme=light)](https://skillicons.dev)
+#### 實作:
+- [應用 Machine Learning 於公共物聯網](https://github.com/xixa3333/Applying-Machine-Learning-to-Public-Internet-of-Things)
+`;
+            
+            // 使用 Transformer 處理 Markdown 資料
+            const Markmap = window.markmap;
+            const transformer = new Markmap.Transformer();
+            const { root } = transformer.transform(markdown);
+
+            // 渲染心智圖
+            const mm = Markmap.Markmap.create('#markmap', undefined, root);
+
+            // 創建工具欄並放置到相對位置
+            const { el } = Markmap.Toolbar.create(mm);
+            el.style.position = 'absolute';
+            el.style.bottom = '0.5rem';
+            el.style.right = '0.5rem';
+
+            // 把工具欄加到 markmap-toolbar
+            const toolbar = document.getElementById("markmap-toolbar");
+            toolbar.append(el);
+        };
+    </script>
+    </section>
+
+    <section id="certificates">
+        <h2>證書</h2>
+        <ul>
+            <li><a href="https://partner.cloudskillsboost.google/public_profiles/dbc19dbb-8cce-44c3-8e39-60a41ee9b27f">Google Cloud 證書</a></li>
+            <li><a href="https://www.edocr.com/v/w26xom0w/xixa3333/i2024">深度學習實作 I 基礎</a></li>
+            <li>數位電子乙級技術士</li>
+            <li>電腦硬體裝修乙級技術士</li>
+        </ul>
+    </section>
+    
+    <section id="projects">
+        <h2>文章</h2>
+        <ul>
+            <li><a href="https://github.com/xixa3333/C-Plus-Plus-Textbook/blob/main/%E7%9B%AE%E9%8C%84.md">C++</a></li>
+            <li><a href="https://github.com/xixa3333/C-Textbook/blob/main/%E7%9B%AE%E9%8C%84.md">C</a></li>
+            <li><a href="https://github.com/xixa3333/algorithm/blob/main/%E7%9B%AE%E9%8C%84.md">algorithm</a></li>
+        </ul>
+    </section>
+    
+    <section id="contact">
+        <h2>聯絡方式</h2>
+        <p><a href="https://bento.me/xixa3333">我的個人連結</a></p>
+    </section>
+    
+    <footer>
+        <p>&copy; 2025 王凱弘</p>
+    </footer>
+</body>
+</html>
