@@ -11,13 +11,6 @@ I am learning python deep learning.
 ## Skill：
 - web crawler
 - digital image process
-## Word Processing：
-- Word
-- Excel
-- PowerPoint
-- Canva
-## google：
-- google forms
 ## Visual design：
 - Power BI
 ## Certificate：
