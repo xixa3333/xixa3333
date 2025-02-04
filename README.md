@@ -25,7 +25,7 @@ I am learning python deep learning.
 - [深度學習實作I基礎](https://www.edocr.com/v/w26xom0w/xixa3333/i2024)
 - 數位電子乙級技術士
 - 電腦硬體裝修乙級技術士
-- 電腦硬體裝修丙級技術士
+- 電腦軟體應用丙級技術士
 ## Competition experience：
 - 110年 第3屆大手攜小手智慧創新應用競賽 佳作
 - 111年 全國程式設計競賽 第3名
