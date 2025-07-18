@@ -39,6 +39,7 @@ I am learning python deep learning.
 - [迷宮](https://github.com/xixa3333/maze)
 - [勇者鬥惡龍](https://github.com/xixa3333/Dragon-Quest)
 - [俄羅斯方塊2048](https://github.com/xixa3333/Tetris2048/tree/main)
+- [踩地雷](https://github.com/xixa3333/Step_Mine)
 ### small creation：
 - [計算機](https://github.com/xixa3333/calculator)
 - [食物抽籤](https://github.com/xixa3333/Food_Lottery/tree/master)
