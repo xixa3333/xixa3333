@@ -35,6 +35,7 @@ I am learning python deep learning.
 - [高速公路易壅塞路段概況分析](https://github.com/xixa3333/congestion-analysis)
 - [應用 Machine Learning 於公共物聯網](https://github.com/xixa3333/Applying-Machine-Learning-to-Public-Internet-of-Things)
 - [利用 OpenCV 程式庫對影像進行多步驟處理](https://github.com/xixa3333/P-Chart/tree/main)
+- [Panasonic AI預測實習專案](https://www.notion.so/Panasonic-26515d48be9380e5b08af72f1b7be505?source=copy_link)
 ### small game：
 - [迷宮](https://github.com/xixa3333/maze)
 - [勇者鬥惡龍](https://github.com/xixa3333/Dragon-Quest)
